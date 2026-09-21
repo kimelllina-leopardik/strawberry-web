@@ -1,0 +1,6 @@
+{
+  "name": "Клубника Душанбе — Доставка и онлайн-оплата",
+  "description": "Свежая отборная клубника и ягоды в бельгийском шоколаде с быстрой доставкой по всем районам Душанбе и удобной онлайн-оплатой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
